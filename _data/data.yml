@@ -98,7 +98,7 @@ projects:
                  allocation from Image2Column operation and further improves the data locality during inference time."
 
       - title: Deploy Time Network Compression Toolbox
-        link: #"#"
+        link: [[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]
         tagline: "A toolbox which integrates several different inference time CNN compression algorithms, which allows
                   both single method compression and couple method compression."
 
