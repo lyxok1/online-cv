@@ -50,7 +50,7 @@ career-profile:
 
 education:
     - degree: MSc in Electronic Engineering
-      university: Shanghai Jiao Tong University
+      university: Shanghai Jiao Tong University, Shanghai, China
       time: 2018 - Present
       details: # |
         # Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -63,7 +63,7 @@ education:
         #   - Bullet point 
 
     - degree: BSc in Electronic Engineering
-      university: Shanghai Jiao Tong University
+      university: Shanghai Jiao Tong University, Shanghai, China
       time: 2014 - 2018
       details: # |
         # Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -98,7 +98,7 @@ projects:
                  allocation from Image2Column operation and further improves the data locality during inference time."
 
       - title: Deploy Time Network Compression Toolbox
-        link: [[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]
+        link: 
         tagline: "A toolbox which integrates several different inference time CNN compression algorithms, which allows
                   both single method compression and couple method compression."
 
@@ -114,11 +114,11 @@ publications:
         authors: Yuxi Li, Jiuwei Li, Jianguo Li, Weiyao Lin
         conference: British Machine Vision Conference (BMVC), 2018
 
-      - title: "Network Decoupling: from regular to depthwise seperable convolution"
+      - title: "Network Decoupling: from regular to depthwise seperable convolution [[arxiv]()][[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]"
         authors: Jianbo Guo, Yuxi Li, Weiyao Lin, Yurong Chen, Jianguo Li
         conference: British Machine Vision Conference (BMVC), 2018
 
-      - title: "Group Re-Identification with Multi-grained Matching and Integration"
+      - title: "Group Re-Identification with Multi-grained Matching and Integration[[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]"
         authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang
         conference: submitted to IEEE Transaction on Pattern Analysis and Machine Intelligence (T-PAMI)
 
