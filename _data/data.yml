@@ -48,14 +48,6 @@ career-profile:
       My study interests include computer vision and machine learning (object detection, video analysis and 
       efficient neural network design).
 
-      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      # adipiscing elit. You can [download this free resume/CV template here]().
-      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      # Donec quam felis, ultricies nec, pellentesque eu.
-
-      # Second paragraph if required.
-
 education:
     - degree: MSc in Electronic Engineering
       university: Shanghai Jiao Tong University
@@ -103,7 +95,7 @@ projects:
       - title: Kernel2Row Convolution
         link: #"#hook"
         tagline: "We implement a faster convolution operation which avoids the large amount of dynamic memory
-                 allocation from Image2Column operation and further improves the data locality during inference time"
+                 allocation from Image2Column operation and further improves the data locality during inference time."
 
       - title: Deploy Time Network Compression Toolbox
         link: #"#"
@@ -118,7 +110,7 @@ publications:
       # bibendum fringilla a eu lectus.
 
     papers:
-      - title: "Tiny-DSOD: lightweight object detection for resource-restricted usages" 
+      - title: "Tiny-DSOD: lightweight object detection for resource-restricted usages[[arxiv](https://arxiv.org/abs/1807.11013)][[code](https://github.com/lyxok1/Tiny-DSOD)]" 
         authors: Yuxi Li, Jiuwei Li, Jianguo Li, Weiyao Lin
         conference: British Machine Vision Conference (BMVC), 2018
 
