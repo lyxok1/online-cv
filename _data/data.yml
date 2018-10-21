@@ -81,7 +81,7 @@ experiences:
       company: Intel Lab China, Beijing, China
       details:  |
         I had worked as a research intern in Intel Lab China from 2017 to 2018, under the supervision
-        of Dr. (Jianguo Li)[https://sites.google.com/site/leeplus/]. During the internship, I mainly focus on the work of CNN acceleration and
+        of Dr. [Jianguo Li](https://sites.google.com/site/leeplus/). During the internship, I mainly focus on the work of CNN acceleration and
         efficient object detection.
 
 projects:
@@ -110,21 +110,18 @@ publications:
       # bibendum fringilla a eu lectus.
 
     papers:
-      - title: "Tiny-DSOD: lightweight object detection for resource-restricted usages
-
-      [[arxiv](https://arxiv.org/abs/1807.11013)][[code](https://github.com/lyxok1/Tiny-DSOD)]" 
+      - title: "Tiny-DSOD: lightweight object detection for resource-restricted usages"
+        link: [[arxiv](https://arxiv.org/abs/1807.11013)][[code](https://github.com/lyxok1/Tiny-DSOD)]
         authors: Yuxi Li, Jiuwei Li, Jianguo Li, Weiyao Lin
         conference: British Machine Vision Conference (BMVC), 2018
 
-      - title: "Network Decoupling: from regular to depthwise seperable convolution 
-
-      [[arxiv](https://arxiv.org/abs/1808.05517)][[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]"
+      - title: "Network Decoupling: from regular to depthwise seperable convolution" 
+        link: [[arxiv](https://arxiv.org/abs/1808.05517)][[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]
         authors: Jianbo Guo, Yuxi Li, Weiyao Lin, Yurong Chen, Jianguo Li
         conference: British Machine Vision Conference (BMVC), 2018
 
-      - title: "Group Re-Identification with Multi-grained Matching and Integration
-
-      [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]"
+      - title: "Group Re-Identification with Multi-grained Matching and Integration"
+        link: [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
         authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang
         conference: submitted to IEEE Transaction on Pattern Analysis and Machine Intelligence (T-PAMI)
 
