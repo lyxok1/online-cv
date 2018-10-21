@@ -111,17 +111,20 @@ publications:
 
     papers:
       - title: "Tiny-DSOD: lightweight object detection for resource-restricted usages"
-        link: [[arxiv](https://arxiv.org/abs/1807.11013)][[code](https://github.com/lyxok1/Tiny-DSOD)]
+        link: >
+         [[arxiv](https://arxiv.org/abs/1807.11013)][[code](https://github.com/lyxok1/Tiny-DSOD)]
         authors: Yuxi Li, Jiuwei Li, Jianguo Li, Weiyao Lin
         conference: British Machine Vision Conference (BMVC), 2018
 
       - title: "Network Decoupling: from regular to depthwise seperable convolution" 
-        link: [[arxiv](https://arxiv.org/abs/1808.05517)][[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]
+        link: >
+         [[arxiv](https://arxiv.org/abs/1808.05517)][[code](https://github.com/lyxok1/Deploy-Time-CNN-Optimization)]
         authors: Jianbo Guo, Yuxi Li, Weiyao Lin, Yurong Chen, Jianguo Li
         conference: British Machine Vision Conference (BMVC), 2018
 
       - title: "Group Re-Identification with Multi-grained Matching and Integration"
-        link: [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
+        link: >
+         [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
         authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang
         conference: submitted to IEEE Transaction on Pattern Analysis and Machine Intelligence (T-PAMI)
 
