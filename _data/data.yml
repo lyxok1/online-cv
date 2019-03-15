@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Yuxi Li
     tagline: 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lyxok1@sjtu.edu.cn
@@ -34,10 +34,10 @@ sidebar:
       - item: Soccer
         link:
 
-      - item: Animation
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: Animation
         link:
 
 career-profile:
@@ -122,11 +122,17 @@ publications:
         authors: Jianbo Guo, Yuxi Li, Weiyao Lin, Yurong Chen, Jianguo Li
         conference: British Machine Vision Conference (BMVC), 2018
 
+      - title: "Trained Rank Pruning for Efficient Deep Neural Networks" 
+        link: >
+         [[arxiv](https://arxiv.org/abs/1812.02402)][[code](https://github.com/yuhuixu1993/Trained-Rank-Pruning)]
+        authors: Yuhui Xu, Yuxi Li, Shuai Zhang, Wei Wen, Botao Wang, Yingyong Qi, Yiran Chen, Weiyao Lin, Hongkai Xiong
+        conference: submitted to IJCAI, 2019
+
       - title: "Group Re-Identification with Multi-grained Matching and Integration"
         link: >
          [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
         authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang
-        conference: submitted to IEEE Transaction on Pattern Analysis and Machine Intelligence (T-PAMI)
+        conference: submitted to IEEE Transaction on Cybernetics
 
 skills:
     title: Skills &amp; Proficiency
