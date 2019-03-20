@@ -126,13 +126,13 @@ publications:
         link: >
          [[arxiv](https://arxiv.org/abs/1812.02402)][[code](https://github.com/yuhuixu1993/Trained-Rank-Pruning)]
         authors: Yuhui Xu, Yuxi Li, Shuai Zhang, Wei Wen, Botao Wang, Yingyong Qi, Yiran Chen, Weiyao Lin, Hongkai Xiong
-        conference: submitted to IJCAI, 2019
+        conference: arxiv preprint 1812.02402
 
-      - title: "Group Re-Identification with Multi-grained Matching and Integration"
-        link: >
-         [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
-        authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang
-        conference: submitted to IEEE Transaction on Cybernetics
+      # - title: "Group Re-Identification with Multi-grained Matching and Integration"
+      #   link: >
+      #    [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
+      #   authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang
+      #   conference: under review
 
 skills:
     title: Skills &amp; Proficiency
