@@ -84,6 +84,13 @@ experiences:
         of Dr. [Jianguo Li](https://sites.google.com/site/leeplus/). During the internship, I mainly focus on the work of CNN acceleration and
         efficient object detection.
 
+    - role: Algorithm Engineer Intern
+      time: 2019.6 - 2019.23
+      company: Wuta Camera, Shanghai, China
+      details:  |
+        I had worked as a algorithm intern in Wuta Camera in 2019. During the internship, I mainly focus on the research and development of fast
+        keypoints detection and rendering on mobilen devices.
+
 projects:
     title: Projects
     intro: # >
@@ -144,7 +151,7 @@ skills:
       - name: C/C++/CUDA C
         level: Familiar
 
-      - name: Caffe/Pytorch
+      - name: Caffe/Pytorch/CoreML
         level: Familiar
 
 footer: # >
