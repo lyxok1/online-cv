@@ -133,7 +133,7 @@ publications:
         link: >
          [[arxiv](https://arxiv.org/abs/1812.02402)][[code](https://github.com/yuhuixu1993/Trained-Rank-Pruning)]
         authors: Yuhui Xu, Yuxi Li, Shuai Zhang, Wei Wen, Botao Wang, Yingyong Qi, Yiran Chen, Weiyao Lin, Hongkai Xiong
-        conference: arxiv preprint 1812.02402
+        conference: EMC2 Workshop of Neural Information Processing Systems, 2019
 
       - title: "Group Re-Identification with Multi-grained Matching and Integration"
         link: >
