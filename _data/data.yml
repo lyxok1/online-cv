@@ -29,21 +29,11 @@ sidebar:
 
       - idiom: English
         level: Familiar
-        
-    interests:
-      - item: Soccer
-        link:
-
-      - item: Reading
-        link:
-
-      - item: Animation
-        link:
 
 career-profile:
     title: About Me
     summary: |
-      I am a first-year master student in the Labratory of Media, Information and
+      I am a second-year master student in the Labratory of Media, Information and
       Network (M.I.N Lab) of Shanghai Jiao Tong University. My advisor is Prof. [Weiyao Lin](https://weiyaolin.github.io/).
       My study interests include computer vision and machine learning (object detection, video analysis and 
       efficient neural network design).
@@ -79,17 +69,17 @@ experiences:
     - role: Research Intern
       time: 2017.8 - 2018.6
       company: Intel Lab China, Beijing, China
-      details:  |
-        I had worked as a research intern in Intel Lab China from 2017 to 2018, under the supervision
-        of Dr. [Jianguo Li](https://sites.google.com/site/leeplus/). During the internship, I mainly focus on the work of CNN acceleration and
-        efficient object detection.
+      details: #  |
+        # I had worked as a research intern in Intel Lab China from 2017 to 2018, under the supervision
+        # of Dr. [Jianguo Li](https://sites.google.com/site/leeplus/). During the internship, I mainly focus on the work of CNN acceleration and
+        # efficient object detection.
 
     - role: Algorithm Engineer Intern
-      time: 2019.6 - 2019.23
+      time: 2019.6 - 
       company: Wuta Camera, Shanghai, China
-      details:  |
-        I had worked as a algorithm intern in Wuta Camera in 2019. During the internship, I mainly focus on the research and development of fast
-        keypoints detection and rendering on mobilen devices.
+      details: # |
+        # I had worked as a algorithm intern in Wuta Camera in 2019. During the internship, I mainly focus on the research and development of fast
+        # keypoints detection and rendering on mobilen devices.
 
 projects:
     title: Projects
@@ -140,6 +130,10 @@ publications:
          [[project page](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)]
         authors: Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang, Tao Mei
         conference: IEEE Transaction on Cybernetics, 2019
+
+      - title: "Finding Action Tubes with a Sparse-to-Dense Framework"
+        authors: Yuxi Li, Weiyao Lin, Tao Wang, John See, Rui Qian, Ning Xu, Limin Wang, Shugong Xu
+        conference: Thirty-Fourth AAAI Conference on Artificial Intelligence, 2020
 
 skills:
     title: Skills &amp; Proficiency
